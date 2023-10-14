@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yung-K, Proxy for @nope-hope
-- 👀 I’m interested in *
-- 🌱 I’m currently learning *
-- 💞️ I’m looking to collaborate on *
+- 👀 I’m interested in backend and information security*
+- 🌱 I’m currently learning everything*
+- 💞️ I’m looking to collaborate on making money*
 
 <!---
 yung-K/yung-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
